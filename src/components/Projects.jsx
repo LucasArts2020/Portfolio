@@ -60,8 +60,8 @@ const Projects = () => {
           {projectData.map((project, index) => (
             <div
               key={index}
-              className="bg-gray-800 rounded-lg p-6 border border-gray-700
-                         transform transition-transform duration-300 hover:scale-105 hover:border-orange-500"
+              className="bg-zinc-950 rounded-lg p-6 border border-gray-710500 transition duration-500 
+              ease-in-out hover:-translate-y-1 hover:scale-108 hover:border-orange-500"
             >
               <img
                 src={project.imageUrl}
