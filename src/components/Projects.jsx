@@ -1,8 +1,3 @@
-// src/components/Projects.jsx
-
-import React from "react";
-
-// 1. DADOS DOS PROJETOS (substitua com os seus)
 const projectData = [
   {
     title: "Travelgram",
